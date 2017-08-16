@@ -26,4 +26,4 @@
 # 栅格参数
 通过下图可以详细查看 Bootstrap 的栅格系统是如何在多种屏幕设备上工作的。
 
-![images text](media.png)
+![images text](https://raw.githubusercontent.com/jiaoshibo/mobileSnake/master/%E5%AA%92%E4%BD%93%E6%9F%A5%E8%AF%A2/media.PNG)
