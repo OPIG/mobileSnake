@@ -16,6 +16,12 @@ var box = document.getElementById("box")
 var boxWidth = box.offsetWidth;
 box.style.height = boxWidth+"px";
 
+// var body = document.body;
+// var bodyWidth = body.offsetWidth;
+// console.log(bodyWidth);
+// if(bodyWidth>1024){
+
+// }
 // var str="";
 // for(var i=0;i<400;i++){
 //     str+="<li></li>"
