@@ -61,7 +61,6 @@ html {
 }
 .box{
     width: 100%;
-    -webkit-overflow-scrolling: touch;
 }
 .bigbox{
     width: 100%;
