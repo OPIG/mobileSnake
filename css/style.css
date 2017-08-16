@@ -31,25 +31,6 @@ li{list-style: none;}
     }
 }
 
-
-/**
- * 2016-01-13 订正
- * 做适当限制
- * 大于640的屏幕 固定为100px
- * 同时需要对body或者最外层wrapper做max-width: 640px的限制
- */
-/*
-@media screen and (min-width: 640px) {
-    html {
-        font-size: 100px;
-    }
-}
-
-html {
-    font-size: 15.625vw;
-}
-*/
-
 .box{
     width: 100%;
 }
