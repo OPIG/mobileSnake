@@ -42,6 +42,7 @@ function initSpace(){
     var frag=document.createDocumentFragment();
     for(var i=0;i<400;i++){
         var lidom=document.createElement("li");
+        //lidom.innerHTML=i
         ulBox.appendChild(lidom);
     }
     ulBox.appendChild(frag)
