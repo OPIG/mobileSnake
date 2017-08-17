@@ -1,6 +1,6 @@
 # 贪吃蛇
 源代码地址：https://github.com/jiaoshibo/mobileSnake
-> 在手机浏览器上的显示效果
+* 在手机浏览器上的显示效果
 ![images text](https://raw.githubusercontent.com/jiaoshibo/images/master/img/snake.png)
 ## 贪吃蛇的基本框架
 首先确定蛇的移动区域，由一组'ul'标签构成，给予'ul'一个宽高，就组成了蛇的活动区域。'li'标签构成了蛇的身体和行进路线，以及蛇的食物，由不同的色块进行区分。'li'标签是在js文件里进行添加的，这个后面再提。
