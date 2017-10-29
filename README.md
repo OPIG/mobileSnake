@@ -296,4 +296,4 @@ timeOut.onclick=function(){//暂停游戏
     clearInterval(timer);
 }
 ```
-就酱，我们的贪吃蛇小游戏就编辑完成啦。还有游戏的BGM，大家可以找些素材自行添加哦。
+就酱，我们的贪吃蛇小游戏就编辑完成啦。
